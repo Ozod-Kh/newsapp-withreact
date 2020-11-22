@@ -1,14 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import './App.css';
 
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link,
-  useHistory,
-  withRouter
-} from "react-router-dom";
+import {useHistory} from "react-router-dom";
 
 function App() {
   const [news, setNews] = useState([])
