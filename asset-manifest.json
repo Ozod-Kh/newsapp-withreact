@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ozod-Kh/newsapp-withreact/static/css/main.b19e4a29.chunk.css",
+    "main.js": "/Ozod-Kh/newsapp-withreact/static/js/main.6766c248.chunk.js",
+    "main.js.map": "/Ozod-Kh/newsapp-withreact/static/js/main.6766c248.chunk.js.map",
+    "runtime-main.js": "/Ozod-Kh/newsapp-withreact/static/js/runtime-main.79754667.js",
+    "runtime-main.js.map": "/Ozod-Kh/newsapp-withreact/static/js/runtime-main.79754667.js.map",
+    "static/js/2.22622a3e.chunk.js": "/Ozod-Kh/newsapp-withreact/static/js/2.22622a3e.chunk.js",
+    "static/js/2.22622a3e.chunk.js.map": "/Ozod-Kh/newsapp-withreact/static/js/2.22622a3e.chunk.js.map",
+    "index.html": "/Ozod-Kh/newsapp-withreact/index.html",
+    "static/css/main.b19e4a29.chunk.css.map": "/Ozod-Kh/newsapp-withreact/static/css/main.b19e4a29.chunk.css.map",
+    "static/js/2.22622a3e.chunk.js.LICENSE.txt": "/Ozod-Kh/newsapp-withreact/static/js/2.22622a3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79754667.js",
+    "static/js/2.22622a3e.chunk.js",
+    "static/css/main.b19e4a29.chunk.css",
+    "static/js/main.6766c248.chunk.js"
+  ]
+}
