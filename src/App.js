@@ -14,7 +14,7 @@ function App() {
   }, [])
 
   const fetchNews = () => {
-    var url = 'http://newsapi.org/v2/top-headlines?' +
+    var url = 'https://newsapi.org/v2/top-headlines?' +
       'country=us&' +
       'apiKey=2211afc7e14741eeaf91a6e6f21015d1';
     var req = new Request(url);
