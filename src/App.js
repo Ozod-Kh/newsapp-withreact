@@ -40,13 +40,12 @@ function App() {
       pathname: '/details',
       state: { data: item }
     })
-    console.log(history)
-    console.log(item)
+     
      
   }
 
 
-  console.log(useHistory());
+  
 
   return (
     <div className="appContainer">
